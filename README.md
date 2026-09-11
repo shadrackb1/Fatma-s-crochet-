@@ -1,10 +1,8 @@
-﻿# Fatma s crochet
+# Fatma's Crochet Corner
 
-Fatma's Crochet Corner
+<img src="./assets/header.svg" width="100%" alt="Fatma's Crochet Corner" />
 
-## Stack
-
-react Â· vite Â· typescript Â· firebase
+Handmade crochet store and portfolio.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· firebase
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
