@@ -1,8 +1,12 @@
 # Fatma's Crochet Corner
 
-<img src="./assets/header.svg" width="100%" alt="Fatma's Crochet Corner" />
+Handmade crochet shop site.
 
-Handmade crochet store and portfolio.
+**Status:** brand site
+
+## Stack
+
+React, TypeScript, Vite, Firebase
 
 ## Run locally
 
